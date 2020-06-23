@@ -6,11 +6,6 @@ li {
   list-style: none;
 }
 
-.animate_animated.animate_bounce {
-  display:inline-block;
-  animation: bounce 1s infinite ;
-}
-
 .header {
   background-color: #26d0c9;
   color: #fff;
@@ -105,9 +100,3 @@ input, textarea {
 .footer-list li {
   padding-bottom: 20px;
 }
-
-img {
-  width: 50px ;
-  height: 40px:
-}
-  
