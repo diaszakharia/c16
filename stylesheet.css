@@ -7,7 +7,7 @@ li {
 }
 
 .animate_animated.animate_bounce {
-  animate-duration: 2s ;
+  --animate-duration: 2s ;
 }
 
 .header {
