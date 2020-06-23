@@ -6,6 +6,10 @@ li {
   list-style: none;
 }
 
+.animate_animated.animate_bounce {
+  animate-duration: 2s ;
+}
+
 .header {
   background-color: #26d0c9;
   color: #fff;
